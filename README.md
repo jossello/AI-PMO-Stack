@@ -93,7 +93,23 @@ This pilot explores how an AI-enabled PMO can connect structured execution with 
 - Risk flagging
 - Pattern detection
 
+## Pilot Set-Up
 
+This pilot was intentionally created using AI-assisted tooling to explore how AI can accelerate PMO design while preserving human accountability.
+
+### AI-Assisted Base Generation
+
+An AI builder was used to generate the initial Airtable schema with the following constraints:
+
+- Lightweight one-day pilot
+- No automations
+- No autonomous agents
+- Human approval for all decisions
+- Support for intake, experiments, and decisions
+
+The goal was not to automate program management, but to test whether structured execution and organizational memory improve decision-making.
+
+See [Airtable Base Builder Prompt](prompts/airtable-base-builder.md).
 
 ## Demo
 
