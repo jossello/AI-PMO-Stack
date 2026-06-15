@@ -2,7 +2,6 @@
 
 **AI-enabled PMO operating model combining organizational memory, AI-assisted intelligence, and human accountability. Demonstrates how Airtable, Obsidian, and AI agents preserve context, surface risks, support decisions, and improve cross-functional execution.**
 
----
 
 ## Overview
 
@@ -21,7 +20,7 @@ The core hypothesis is:
 
 AI works best when it operates on structured context with explicit governance and human oversight.
 
----
+
 
 ## Why This Repository Exists
 
@@ -40,7 +39,7 @@ They are often less effective at preserving:
 
 This repository explores how modern PMOs can combine operational systems with organizational memory to support AI-enabled work.
 
----
+
 
 ## Architecture
 
@@ -51,7 +50,7 @@ This repository explores how modern PMOs can combine operational systems with or
 | Execution Layer | Track work, owners, and status | Airtable, Jira |
 | Governance Layer | Approvals, escalation, accountability | Humans |
 
----
+
 
 ## Responsibility Engineering Lens
 
@@ -69,7 +68,7 @@ This repository applies a Responsibility Engineering approach to AI-enabled work
 
 The goal is not autonomous decision-making. The goal is augmented execution with explicit accountability.
 
----
+
 
 ## Current Pilot
 
@@ -94,7 +93,7 @@ This pilot explores how an AI-enabled PMO can connect structured execution with 
 - Risk flagging
 - Pattern detection
 
----
+
 
 ## Demo
 
@@ -125,7 +124,7 @@ Execution & Learning
 
 > Add screenshots of your Airtable base and Obsidian vault here as the pilot evolves.
 
----
+
 
 ## Success Criteria
 
@@ -135,6 +134,6 @@ The system is successful if a program item can be traced from:
 
 while preserving accountability at every step.
 
----
+
 
 *This repository is an experiment in designing PMO systems for the AI era—where intelligence is augmented, context is preserved, and accountability remains human.*
