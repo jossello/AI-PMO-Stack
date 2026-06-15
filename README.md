@@ -95,19 +95,25 @@ This pilot explores how an AI-enabled PMO can connect structured execution with 
 
 ## Pilot Set-Up
 
-This pilot was intentionally created using AI-assisted tooling to explore how AI can accelerate PMO design while preserving human accountability.
+This repository began as a one-day experiment to test whether AI-enabled program management benefits from separating structured execution from organizational memory.
 
-### AI-Assisted Base Generation
+The pilot intentionally uses lightweight tools and minimal automation:
 
-An AI builder was used to generate the initial Airtable schema with the following constraints:
+- **Airtable** for structured execution and tracking
+- **Obsidian** for decisions, notes, and context
+- **AI** for summarization and structured extraction
+- **Humans** for prioritization, approval, and accountability
 
-- Lightweight one-day pilot
-- No automations
+The initial Airtable schema was generated using AI-assisted tooling with explicit constraints:
+
+- One-day pilot, not production software
 - No autonomous agents
-- Human approval for all decisions
-- Support for intake, experiments, and decisions
+- No automated decision-making
+- Human review required for all decisions
 
-The goal was not to automate program management, but to test whether structured execution and organizational memory improve decision-making.
+The goal is to explore whether combining organizational memory, AI-assisted intelligence, and human judgment improves execution across complex programs.
+
+> **AI assists. Humans approve.**
 
 See [Airtable Base Builder Prompt](prompts/airtable-base-builder.md).
 
