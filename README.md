@@ -121,7 +121,7 @@ This pilot explores how an AI-enabled PMO can connect structured execution with 
 | AI Summary | Surface signals and draft structured outputs |
 | Human Review | Maintain accountability and decision rights |
 
-> Add screenshots of your Airtable base and Obsidian vault here as the pilot evolves.
+> Coming Soon: screenshots of the Airtable base and Obsidian vault here as the pilot evolves.
 
 
 
