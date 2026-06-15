@@ -97,20 +97,19 @@ This pilot explores how an AI-enabled PMO can connect structured execution with 
 
 ## Demo
 
-### Workflow
+### Operating Model
 
 ```text
-Idea or Request
-        ↓
-Airtable Intake
-        ↓
-AI Summarization & Risk Detection
-        ↓
-Obsidian Decision Note
-        ↓
-Human Review & Approval
-        ↓
-Execution & Learning
+             Organizational Memory
+    (meetings, decisions, risks, artifacts)
+                        ↕
+               Intelligence Layer
+     (AI summarization, retrieval, signals)
+                        ↕
+           Human & Agent Execution
+    (planning, delivery, approvals, actions)
+                        ↺
+                Outcomes & Learning
 ```
 
 ### Example Artifacts
